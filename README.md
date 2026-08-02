@@ -64,7 +64,7 @@ The application predicts the estimated house price based on the entered details.
 ---
 
 
-3. Run the Streamlit application
+ Run the Streamlit application
 
 ```bash
 streamlit run app.py
