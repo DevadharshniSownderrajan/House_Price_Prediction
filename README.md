@@ -85,11 +85,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Application Preview
-
-(Add a screenshot of your Streamlit application here.)
-
----
 
 ## 👩‍💻 Author
 
