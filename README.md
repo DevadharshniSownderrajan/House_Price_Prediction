@@ -93,7 +93,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Devadharshini S**
+**DevadharshniSownderrajan**
 
 B.Sc. Data Science Student
 
