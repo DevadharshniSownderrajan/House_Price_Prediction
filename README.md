@@ -63,19 +63,6 @@ The application predicts the estimated house price based on the entered details.
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-```bash
-git clone <repository-link>
-```
-
-2. Install the required packages
-
-```bash
-pip install -r requirements.txt
-```
 
 3. Run the Streamlit application
 
